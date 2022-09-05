@@ -1,16 +1,9 @@
 <h1> 👋 I am Kayle Robson</h1>
 
-<div id="header" align="center">
-<h3>
-  How to reach me:
-  </h3>
-  <a href="https://www.linkedin.com/in/kayle-robson/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100"/>
-  </a>
-</div>
+
 
 <div id="header" align="left">
-<h4>I started self-learning 2 years ago and since Sept 2021 I have been a full-time student</h4>
+<h3>I started self-learning 2 years ago and since Sept 2021 I have been a full-time student</h3>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=revyrob&theme=vue" width="500"/>
 </div>
   
@@ -34,3 +27,11 @@
   
 </div>
 
+<div id="header" align="center">
+<h4>
+  How to reach me:
+  </h4>
+  <a href="https://www.linkedin.com/in/kayle-robson/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100"/>
+  </a>
+</div>
