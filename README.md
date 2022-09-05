@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/stickers/kodewithklossy-kwk-kode-with-klossy-jTHti8z6rjrUZmBgOp)" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/stickers/kodewithklossy-kwk-kode-with-klossy-jTHti8z6rjrUZmBgOp" width="100"/>
 </div>
 
 **revyrob/revyrob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
