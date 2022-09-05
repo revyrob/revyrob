@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1> Hi there 👋 I am Kayle Robson</h1>
+
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" width="100"/>
+</div>
+
+
+<p>I am Web Developer</p>
+
 https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={revyrob}&theme=vue
 
 
