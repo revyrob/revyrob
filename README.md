@@ -1,7 +1,7 @@
 <h1> 👋 I am Kayle Robson</h1>
 
 <div id="header" align="left">
-<h3>I started self-learning 2 years ago and since Sept 2021 I have been a full-time student.</h3>
+<h3>Junior FullStack Web Developer</h3>
  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=revyrob&theme=vue" width="500"/>
 </div>
