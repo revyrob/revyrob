@@ -1,10 +1,21 @@
-<h1> 👋 I am Kayle Robson</h1>
+<h1 align="center"> 👋 I am Kayle Robson</h1>
 
-<div id="header" align="left">
-<h3>Full Stack Web Developer</h3>
+<div id="header" align="center">
+<h3>Software Developer</h3>
+<p><i>Driven by community, ideas, and continual learning</i></p>
  
+ <ul align="left">
+ <li>🔭 View all my projects at : https://kaylerobson.com/projects</li>
+ <li>March 2023 Projects: Two Hackathons with DearJuniorDev</li>
+ <ol><a href="" target="_blank">Intergalactic Planetary</a></ol>
+ <ol><a href="https://github.com/Team-PST/flexduck-challenge" target="_blank">FlexDuck</a></ol>
+ <li>🤝Connect with me! <a href="https://www.linkedin.com/in/kayle-robson/" target="_blank">LinkedIn</a></li>
+ <li>📧How to reach me <a href="mailto:"kayle.robson@gmail.com">kayle.robson@gmail.com</a></li>
+ <li>Find out about my diverse experience: <a href="https://docs.google.com/document/d/1QW5elvX36qnsLVMhCnoPPH7ZPCnogi4vnXHlYdF6-_c/edit?usp=sharing" target="_blank">Resume</a></li>
+ </ul>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=revyrob&theme=vue" width="500"/>
 </div>
+
 
   
 
