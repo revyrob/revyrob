@@ -169,4 +169,26 @@ Backend
 
 -   RESTrul APIs
 
+  <br></br>
+## Bike Briancon Version 2
+https://bikebriancon.fr
+  
+[Frontend](https://github.com/revyrob/bikeBriancon)
+  
+Bike Briancon is a biking application for Serre Chevalier which is located near Briancon, France.  This application was created by recording my own data and scraping bike trail data.  I built this application by sel-learning different tools, such as HTML, CSS, Bootstrap, and QGIS.
+
+GIF HERE
+
+Tech Stack Frontend
+
+-   HTML5
+
+-   CSS
+
+-   Boostrap
+
+-   Javasript
+
+-   QGIS - built with the Open Source program QGIS.  Added the gps data for the trails, added the geolocation for the user, and the click-able trail index.  The QGIS map had a conversion to web.  
+
   </div>
