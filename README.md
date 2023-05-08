@@ -82,7 +82,7 @@ https://brianconfantomes.com
 
 [Frontend](https://github.com/revyrob/brianconFantomes-V2)
 
-Briancon Fantomes is a audio tour which is a functioning business page in Briancon, France.  Visitors are able to access the audio tour in French and English a long with a map for all the audio tour stops.  The website cross-references with Google, Facebook, Instagram, TripAdvisor, and Spotify to help gain more traction for the SEO.  The first version of the website can be found here(https://github.com/revyrob/brianconFantomes).  
+Briancon Fantomes is a audio tour which is a functioning business page in Briancon, France.  Visitors are able to access the audio tour in French and English a long with a map for all the audio tour stops.  The website cross-references with Google, Facebook, Instagram, TripAdvisor, and Spotify to help gain more traction for the SEO.  The first version of the website can be found [here](https://github.com/revyrob/brianconFantomes).  
 
 GIF HERE
 
