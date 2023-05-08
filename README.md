@@ -140,4 +140,27 @@ Backend
 -   RESTful APIs
   
 -   Mongoose
+  
+## Instock
+
+[Backend](https://github.com/revyrob/solarSystem/tree/main/solar-system-backend) |
+[Frontend](https://github.com/revyrob/solarSystem/tree/main/solar-system-frontend)
+
+
+
+GIF HERE
+
+Tech Stack Frontend
+
+-   React JS
+    
+-   Sass – All planets were created only use Sass, images and image laying was not allowed.
+    
+
+Backend
+
+-   NodeJS
+
+-   Express 
+
   </div>
