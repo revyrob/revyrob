@@ -16,9 +16,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=revyrob&theme=vue" width="500"/>
 </div>
 
-
-  
-
 # ⚒️ Languages and Tools 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>
@@ -59,6 +56,8 @@ The planet cards on the home page have a 'Learn more' section where the user is 
 Each planet has it's own planet page. The planet page includes basic information about the planet, 3 identifying facts on the specific planet, and the moons for the specific planet. Up to 10 moons for each planet are shown with the name of the moon, the size, and the name history for that moon.
 
 The application if fully responsive in mobile, tablet, and desktop.
+  
+Out of 5 amazing teams and their projects we were very proud to be the winning team.
 
 GIF HERE
 
@@ -77,12 +76,15 @@ Backend
 
 -   MySQL
 
+  <br></br>
 ## Briancon Fantomes - Version 2
 https://brianconfantomes.com
 
 [Frontend](https://github.com/revyrob/brianconFantomes-V2)
 
-Briancon Fantomes is a audio tour which is a functioning business page in Briancon, France.  Visitors are able to access the audio tour in French and English a long with a map for all the audio tour stops.  The website cross-references with Google, Facebook, Instagram, TripAdvisor, and Spotify to help gain more traction for the SEO.  The first version of the website can be found [here](https://github.com/revyrob/brianconFantomes).  
+Briancon Fantomes is a audio tour which is a functioning business page in Briancon, France.  Visitors are able to access the audio tour in French and English along with a map for all the audio tour stops.  The website cross-references with Google, Facebook, Instagram, TripAdvisor, and Spotify to help gain more traction for the SEO.  The first version of the website can be found [here](https://github.com/revyrob/brianconFantomes).  
+  
+The page uses a couple of great npm libraries such as Framer-motion and React-audio-player.  The application is styled with Tailwind.  The text for the site is kept in two seperate json files, one for French and one for English.  React useContext was used so that the language files could be swapped when the user chose their prefered language within the navbar.  The language is then saved within their browser settings.
 
 GIF HERE
 
@@ -97,4 +99,45 @@ Tech Stack Frontend
 -   React useContext - to manage language change which refers to a json file where the french and english version of the website are kept.
 
 -   React-audio-player - a npm library which plays the audio files
+  
+  <br></br>
+ ## Operation Mother Earth
+(https://operation-mother-earth.netlify.app/)
+  
+[Backend](https://github.com/revyrob/solarSystem/tree/main/solar-system-backend) |
+[Frontend](https://github.com/revyrob/solarSystem/tree/main/solar-system-frontend)
+
+Operation Mother Earth is a full stack application for children to learn about electronic waste. It is a multi-page React application which uses MongoDB as the database. There are 3 sections to the application.  The application has three sections which include: Storyboard Game, Electronic Waste Recycling Center Finder, Education (Video/Q&A).  The backend is hosted on Render therefore it may take a minute to wake up the backend since it is on the free version.
+
+The Electronic Waste Recycling Center Finder is currently on hold since it used Google APIs and my free version has expired therefore I am looking at another alternative.
+
+The application is mobile responsive.
+  
+GIF HERE
+
+Tech Stack Frontend
+
+-   React JS
+    
+-   Framer Motion
+
+-   Sass
+ 
+-   Formik
+  
+-   MUI
+  
+Backend
+
+-   MongoDB
+    
+-   Express
+
+-   Node
+ 
+-   Google APIs
+  
+-   RESTful APIs
+  
+-   Mongoose
   </div>
