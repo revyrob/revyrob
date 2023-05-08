@@ -76,4 +76,25 @@ Backend
 -   AWS
 
 -   MySQL
+
+## Briancon Fantomes - Version 2
+https://brianconfantomes.com
+
+[Frontend](https://github.com/revyrob/brianconFantomes-V2)
+
+Briancon Fantomes is a audio tour which is a functioning business page in Briancon, France.  Visitors are able to access the audio tour in French and English a long with a map for all the audio tour stops.  The website cross-references with Google, Facebook, Instagram, TripAdvisor, and Spotify to help gain more traction for the SEO.  The first version of the website can be found here(https://github.com/revyrob/brianconFantomes).  
+
+GIF HERE
+
+Tech Stack Frontend
+
+-   React JS
+    
+-   Framer Motion
+
+-   Tailwind
+ 
+-   React useContext - to manage language change which refers to a json file where the french and english version of the website are kept.
+
+-   React-audio-player - a npm library which plays the audio files
   </div>
