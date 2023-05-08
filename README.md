@@ -11,7 +11,7 @@
  <ol><a href="https://github.com/Team-PST/flexduck-challenge" target="_blank">FlexDuck</a></ol>
  <li>🤝Connect with me! <a href="https://www.linkedin.com/in/kayle-robson/" target="_blank">LinkedIn</a></li>
  <li>📧How to reach me <a href="mailto:"kayle.robson@gmail.com">kayle.robson@gmail.com</a></li>
- <li>Find out about my diverse experience: <a href="https://docs.google.com/document/d/1QW5elvX36qnsLVMhCnoPPH7ZPCnogi4vnXHlYdF6-_c/edit?usp=sharing" target="_blank">Resume</a></li>
+ <li>Find out about my diverse experience: <a href="https://drive.google.com/file/d/1pzAs329EM5vJgIcB1ZLV1jXQWknyNHYC/view?usp=sharing" target="_blank">Resume</a></li>
  </ul>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=revyrob&theme=vue" width="500"/>
 </div>
