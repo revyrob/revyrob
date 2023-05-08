@@ -141,13 +141,15 @@ Backend
   
 -   Mongoose
   
+  <br></br>
 ## Instock
 
-[Backend](https://github.com/revyrob/solarSystem/tree/main/solar-system-backend) |
-[Frontend](https://github.com/revyrob/solarSystem/tree/main/solar-system-frontend)
+A Web Appliacation with CRUD functionality. A variety of warehouses, their information, and the inventory within them. The user is able to add, edit, and delete information within the warehouses and the inventory. Group project completed within 5 days with 2 other Software Engineers during the Brainstation Sofware Engineering Diploma Course.
+  
+[Backend](https://github.com/revyrob/instock-json/tree/main/instock-server) |
+[Frontend](https://github.com/revyrob/instock-json/tree/main/instock-client)
 
-
-
+  
 GIF HERE
 
 Tech Stack Frontend
@@ -162,5 +164,9 @@ Backend
 -   NodeJS
 
 -   Express 
+  
+-   Axios
+
+-   RESTrul APIs
 
   </div>
