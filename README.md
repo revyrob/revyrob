@@ -40,6 +40,7 @@
 </div><br></br>
 
   # Project Showcase
+  Project progression over the last 3 years
 
 ## Intergalactic Planetary - Learn about the Solar System
 https://intergalactic-planetary.netlify.app/
@@ -85,8 +86,8 @@ https://brianconfantomes.com
 Briancon Fantomes is a audio tour which is a functioning business page in Briancon, France.  Visitors are able to access the audio tour in French and English along with a map for all the audio tour stops.  The website cross-references with Google, Facebook, Instagram, TripAdvisor, and Spotify to help gain more traction for the SEO.  The first version of the website can be found [here](https://github.com/revyrob/brianconFantomes).  
   
 The page uses a couple of great npm libraries such as Framer-motion and React-audio-player.  The application is styled with Tailwind.  The text for the site is kept in two seperate json files, one for French and one for English.  React useContext was used so that the language files could be swapped when the user chose their prefered language within the navbar.  The language is then saved within their browser settings.
-
-GIF HERE
+  
+![Briancon Fantomes - Google Chrome 2023-05-14 09-43-29](https://github.com/revyrob/revyrob/assets/66695865/6cefd6e5-1e90-4800-8eb6-19c7ae41a9f8)
 
 Tech Stack Frontend
 
