@@ -59,7 +59,7 @@ The application if fully responsive in mobile, tablet, and desktop.
   
 Out of 5 amazing teams and their projects we were very proud to be the winning team.
 
-GIF HERE
+![galaticgif](https://user-images.githubusercontent.com/66695865/229334794-a15d6902-6e5a-4317-98a5-fbb3de0197aa.gif)
 
 Tech Stack Frontend
 
