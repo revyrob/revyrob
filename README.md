@@ -104,6 +104,8 @@ Tech Stack Frontend
   <br></br>
  ## Operation Mother Earth
 (https://operation-mother-earth.netlify.app/)
+[Video Here
+](https://www.loom.com/share/9046597dc37d438191343d1a19f8bcb6)
   
 [Backend](https://github.com/revyrob/solarSystem/tree/main/solar-system-backend) |
 [Frontend](https://github.com/revyrob/solarSystem/tree/main/solar-system-frontend)
@@ -114,8 +116,7 @@ The Electronic Waste Recycling Center Finder is currently on hold since it used 
 
 The application is mobile responsive.
   
-[GIF HERE
-](https://www.loom.com/share/9046597dc37d438191343d1a19f8bcb6)
+
   
 Tech Stack Frontend
 
