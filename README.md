@@ -114,8 +114,9 @@ The Electronic Waste Recycling Center Finder is currently on hold since it used 
 
 The application is mobile responsive.
   
-GIF HERE
-
+[GIF HERE
+](https://www.loom.com/share/9046597dc37d438191343d1a19f8bcb6)
+  
 Tech Stack Frontend
 
 -   React JS
