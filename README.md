@@ -120,8 +120,6 @@ The application is mobile responsive.
 ![Operation MotherEarth - Google Chrome 2023-05-15 12-39-52](https://github.com/revyrob/revyrob/assets/66695865/c5f92242-a259-4671-91e2-d0abc0293a68)
   ## Education 
 ![Operation MotherEarth - Google Chrome 2023-05-15 12-40-29](https://github.com/revyrob/revyrob/assets/66695865/ed8f6487-acdf-4bd9-93f1-798b21c36f37)
-
-
   
 Tech Stack Frontend
 
