@@ -114,11 +114,11 @@ The Electronic Waste Recycling Center Finder is currently on hold since it used 
 
 The application is mobile responsive.
 
-  ##E-waste Center - Google APIs & MongoDB API
+  ## E-waste Center 
 ![Operation MotherEarth - Google Chrome 2023-05-15 12-40-59](https://github.com/revyrob/revyrob/assets/66695865/c8b342dd-a9ca-44b6-a2fc-71d200621227)
-  ##Game - Storyboard Game Javascript
+  ## Game 
 ![Operation MotherEarth - Google Chrome 2023-05-15 12-39-52](https://github.com/revyrob/revyrob/assets/66695865/c5f92242-a259-4671-91e2-d0abc0293a68)
-  ##Education - MongoDB API & stored data
+  ## Education 
 ![Operation MotherEarth - Google Chrome 2023-05-15 12-40-29](https://github.com/revyrob/revyrob/assets/66695865/ed8f6487-acdf-4bd9-93f1-798b21c36f37)
 
 
