@@ -157,8 +157,8 @@ A Web Appliacation with CRUD functionality. A variety of warehouses, their infor
 [Backend](https://github.com/revyrob/instock-json/tree/main/instock-server) |
 [Frontend](https://github.com/revyrob/instock-json/tree/main/instock-client)
 
-  
-GIF HERE
+  ![React App - Google Chrome 2023-05-15 13-07-14](https://github.com/revyrob/revyrob/assets/66695865/99238024-66d1-411b-ae21-bc9f700d1fb2)
+![React App - Google Chrome 2023-05-15 13-07-40](https://github.com/revyrob/revyrob/assets/66695865/6411ba0d-95f1-44fe-be68-938610102486)
 
 Tech Stack Frontend
 
