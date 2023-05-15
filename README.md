@@ -87,7 +87,7 @@ Briancon Fantomes is a audio tour which is a functioning business page in Brianc
   
 The page uses a couple of great npm libraries such as Framer-motion and React-audio-player.  The application is styled with Tailwind.  The text for the site is kept in two seperate json files, one for French and one for English.  React useContext was used so that the language files could be swapped when the user chose their prefered language within the navbar.  The language is then saved within their browser settings.
   
-![Briancon Fantomes - Google Chrome 2023-05-14 09-43-29](https://github.com/revyrob/revyrob/assets/66695865/6cefd6e5-1e90-4800-8eb6-19c7ae41a9f8)
+![ezgif com-crop (4)](https://github.com/revyrob/revyrob/assets/66695865/956d56f8-d72f-4c0b-8431-e838d37563e7)
 
 Tech Stack Frontend
 
