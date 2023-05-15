@@ -104,8 +104,6 @@ Tech Stack Frontend
   <br></br>
  ## Operation Mother Earth
 (https://operation-mother-earth.netlify.app/)
-  <br></br>[Video Here
-](https://www.loom.com/share/9046597dc37d438191343d1a19f8bcb6)
   
 [Backend](https://github.com/revyrob/solarSystem/tree/main/solar-system-backend) |
 [Frontend](https://github.com/revyrob/solarSystem/tree/main/solar-system-frontend)
@@ -115,7 +113,9 @@ Operation Mother Earth is a full stack application for children to learn about e
 The Electronic Waste Recycling Center Finder is currently on hold since it used Google APIs and my free version has expired therefore I am looking at another alternative.
 
 The application is mobile responsive.
-  
+![Operation MotherEarth - Google Chrome 2023-05-15 12-40-59](https://github.com/revyrob/revyrob/assets/66695865/c8b342dd-a9ca-44b6-a2fc-71d200621227)
+![Operation MotherEarth - Google Chrome 2023-05-15 12-39-52](https://github.com/revyrob/revyrob/assets/66695865/c5f92242-a259-4671-91e2-d0abc0293a68)
+
 
   
 Tech Stack Frontend
