@@ -115,12 +115,12 @@ The Electronic Waste Recycling Center Finder is currently on hold since it used 
 The application is mobile responsive.
 
   ## E-waste Center 
-![Operation MotherEarth - Google Chrome 2023-05-15 12-40-59](https://github.com/revyrob/revyrob/assets/66695865/c8b342dd-a9ca-44b6-a2fc-71d200621227)
+  ![ezgif com-crop (1)](https://github.com/revyrob/revyrob/assets/66695865/58400101-b001-4d5a-8768-0066125e6d04)
   ## Game 
-![Operation MotherEarth - Google Chrome 2023-05-15 12-39-52](https://github.com/revyrob/revyrob/assets/66695865/c5f92242-a259-4671-91e2-d0abc0293a68)
+  ![ezgif com-crop (3)](https://github.com/revyrob/revyrob/assets/66695865/cf7863ba-a097-486e-8c27-cf88ea3cc5ff)
   ## Education 
-![Operation MotherEarth - Google Chrome 2023-05-15 12-40-29](https://github.com/revyrob/revyrob/assets/66695865/ed8f6487-acdf-4bd9-93f1-798b21c36f37)
-  
+  ![ezgif com-crop (2)](https://github.com/revyrob/revyrob/assets/66695865/ad41fea5-3d0d-43b1-ad3d-e6071141fd77)
+
 Tech Stack Frontend
 
 -   React JS
