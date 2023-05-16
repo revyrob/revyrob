@@ -184,7 +184,8 @@ https://bikebriancon.fr
   
 Bike Briancon is a biking application for Serre Chevalier which is located near Briancon, France.  This application was created by recording my own data and scraping bike trail data.  I built this application by sel-learning different tools, such as HTML, CSS, Bootstrap, and QGIS.
 
-GIF HERE
+  ![ezgif com-crop (5)](https://github.com/revyrob/revyrob/assets/66695865/4248f910-aa39-4974-aaf2-db1a7be65351)
+
 
 Tech Stack Frontend
 
