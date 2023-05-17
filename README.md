@@ -16,28 +16,14 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=revyrob&theme=vue" width="500"/>
 </div>
 
-# ⚒️ Languages and Tools 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="express" alt="express" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" **alt="sass" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" **alt="javascript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" **alt="bootstrap" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" title="Heroku" **alt="heroku" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" **alt="python" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" **alt="figma" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg" title="webflow" **alt="webflow" width="40" height="40"/>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="trello" **alt="trello" width="40" height="40"/>
-       <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="slack" **alt="slack" width="40" height="40"/>
-
-</div><br></br>
+# ⚒️ Skill 
+Languages: Javascript, HTML5, React, js, Python, SQL
+Libraries and Frameworks: Node.js, Express.js, Tailwind, Formik, Framer Motion, MUI, React useContext, Axios, Sass
+Databases: MongoDB, Mongoose, MySQL, AWS
+Web Protocols: RESTful, JSON, HTTP
+Soft Skills: Communicator, Problem-solver, Continuous Learner, Team Player, Creative, Organized, Planner, Agile, Scrum, 
+Dev Tools: Git, Github 
+  <br></br>
 
   # Project Showcase
   Project progression over the last 3 years
@@ -103,10 +89,10 @@ Tech Stack Frontend
   
   <br></br>
  ## Operation Mother Earth
-(https://operation-mother-earth.netlify.app/)
+https://operation-mother-earth.netlify.app/
   
-[Backend](https://github.com/revyrob/solarSystem/tree/main/solar-system-backend) |
-[Frontend](https://github.com/revyrob/solarSystem/tree/main/solar-system-frontend)
+[Backend](https://github.com/revyrob/operation-mother-earth/tree/main/operation-mother-earth_server) |
+[Frontend](https://github.com/revyrob/operation-mother-earth/tree/main/operation-mother-earth_react)
 
 Operation Mother Earth is a full stack application for children to learn about electronic waste. It is a multi-page React application which uses MongoDB as the database. There are 3 sections to the application.  The application has three sections which include: Storyboard Game, Electronic Waste Recycling Center Finder, Education (Video/Q&A).  The backend is hosted on Render therefore it may take a minute to wake up the backend since it is on the free version.
 
