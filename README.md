@@ -17,12 +17,17 @@
 </div>
 
 # ⚒️ Skills 
-Languages: Javascript, HTML5, Python, SQL, C, C#
-Libraries and Frameworks: Node.js, Express.js, Tailwind, Formik, Framer Motion, MUI, Boostrap, Axios, Sass, React.js, Flutter
-Databases: MongoDB, Mongoose, MySQL, AWS
-Web Protocols: RESTful, JSON, HTTP
-Soft Skills: Communicator, Problem-solver, Continuous Learner, Team Player, Creative, Organized, Planner, Agile Methodologies 
-Dev Tools: Git, Github 
+  <b>Languages:</b> Javascript, HTML5, Python, SQL, C, C#
+  <br></br>
+<b>Libraries and Frameworks:</b> Node.js, Express.js, Tailwind, Formik, Framer Motion, MUI, Boostrap, Axios, Sass, React.js, Flutter
+ <br></br>
+  <b>Databases:</b> MongoDB, Mongoose, MySQL, AWS
+ <br></br>
+  <b>Web Protocols:</b> RESTful, JSON, HTTP
+ <br></br>
+  <b>Soft Skills:</b> Communicator, Problem-solver, Continuous Learner, Team Player, Creative, Organized, Planner, Agile Methodologies 
+ <br></br>
+  <b>Dev Tools:</b> Git, Github 
   <br></br>
 
   # Project Showcase
