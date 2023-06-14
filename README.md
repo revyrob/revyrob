@@ -16,12 +16,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=revyrob&theme=vue" width="500"/>
 </div>
 
-# ⚒️ Skill 
-Languages: Javascript, HTML5, React, js, Python, SQL
-Libraries and Frameworks: Node.js, Express.js, Tailwind, Formik, Framer Motion, MUI, React useContext, Axios, Sass
+# ⚒️ Skills 
+Languages: Javascript, HTML5, Python, SQL, C, C#
+Libraries and Frameworks: Node.js, Express.js, Tailwind, Formik, Framer Motion, MUI, Boostrap, Axios, Sass, React.js, Flutter
 Databases: MongoDB, Mongoose, MySQL, AWS
 Web Protocols: RESTful, JSON, HTTP
-Soft Skills: Communicator, Problem-solver, Continuous Learner, Team Player, Creative, Organized, Planner, Agile, Scrum, 
+Soft Skills: Communicator, Problem-solver, Continuous Learner, Team Player, Creative, Organized, Planner, Agile Methodologies 
 Dev Tools: Git, Github 
   <br></br>
 
