@@ -39,17 +39,9 @@ https://intergalactic-planetary.netlify.app/
 [Backend](https://github.com/revyrob/solarSystem/tree/main/solar-system-backend) |
 [Frontend](https://github.com/revyrob/solarSystem/tree/main/solar-system-frontend)
 
-Intergalactic Planetary was built for to participate in a week-long hackathon. The team consisted of three developers who came together through the Hackathon discord channel, wireframed an idea, planned tickets/tasks through a Trello board, and communicated daily via Discord. 
-  
-Intergalactic Planetary is a full-stack application which teaches students about our solar system. The Homepage lets the user flip through all the planets within the solar system (which includes Pluto), gives the user other resources to extend their knowledge (we recommend checking out the solar system rap!), and a few fun facts about our solar system.
+Intergalactic Planetary was meticulously crafted as an ambitious endeavor for a thrilling week-long hackathon. The team, consisting of three highly skilled and passionate developers, united through the dynamic Hackathon discord channel. With their unwavering dedication and boundless creativity, they embarked on an exhilarating journey, meticulously shaping a captivating idea. The team's meticulous planning involved the creation of tickets and tasks, seamlessly organized through a Trello board. Furthermore, they maintained daily communication via Discord, fostering a harmonious synergy that propelled the project forward.  
 
-The planet cards on the home page have a 'Learn more' section where the user is directed to the individual page for that planet. The planet cards also have a locate button and when selected the planet is located on the solar system within the banner on the homepage.
-
-Each planet has it's own planet page. The planet page includes basic information about the planet, 3 identifying facts on the specific planet, and the moons for the specific planet. Up to 10 moons for each planet are shown with the name of the moon, the size, and the name history for that moon.
-
-The application if fully responsive in mobile, tablet, and desktop.
-  
-Out of 5 amazing teams and their projects we were very proud to be the winning team.
+The hackathon presented a unique challenge: to create a full-stack application that would enable students to delve into the awe-inspiring realm of the solar system. As an added twist, the team was required to style all the planets using CSS alone, showcasing their mastery of front-end design. Moreover, each planet was given its own distinctive page, brimming with captivating and distinct information, offering a comprehensive learning experience for students.  To bring this vision to life, the team employed cutting-edge technologies. The React framework was chosen to power the dynamic front-end, ensuring a seamless and interactive user interface. For the back-end infrastructure, a robust MySQL database was meticulously designed and implemented, leveraging the power of AWS for hosting and scalability.  Amidst fierce competition from five exceptional teams, we humbly stand as the triumphant victors.
 
 ![galaticgif](https://user-images.githubusercontent.com/66695865/229334794-a15d6902-6e5a-4317-98a5-fbb3de0197aa.gif)
 
@@ -74,9 +66,15 @@ https://brianconfantomes.com
 
 [Frontend](https://github.com/revyrob/brianconFantomes-V2)
 
-Briancon Fantomes is a audio tour which is a functioning business page in Briancon, France.  Visitors are able to access the audio tour in French and English along with a map for all the audio tour stops.  The website cross-references with Google, Facebook, Instagram, TripAdvisor, and Spotify to help gain more traction for the SEO.  The first version of the website can be found [here](https://github.com/revyrob/brianconFantomes).  
-  
-The page uses a couple of great npm libraries such as Framer-motion and React-audio-player.  The application is styled with Tailwind.  The text for the site is kept in two seperate json files, one for French and one for English.  React useContext was used so that the language files could be swapped when the user chose their prefered language within the navbar.  The language is then saved within their browser settings.
+Briancon Fantomes is an exceptional audio tour business nestled in the charming locale of Briancon, France. As a fully functional business page, it offers visitors an immersive experience through captivating audio tours available in both French and English, complemented by a comprehensive map highlighting all the tour stops.  
+
+To maximize its online presence and reach, the website cleverly utilizes cross-referencing with popular platforms such as Google, Facebook, Instagram, TripAdvisor, and Spotify. This strategic integration not only enhances the visibility of Briancon Fantomes but also amplifies its Search Engine Optimization (SEO), ensuring that it garners the attention it deserves.  
+
+To enhance the user experience, the page leverages the power of remarkable npm libraries such as Framer-motion and React-audio-player. These libraries contribute to the seamless navigation and immersive audio playback, elevating the overall quality of the audio tour experience.  
+
+Aesthetically, the website exudes elegance and modernity with its stylish design, thanks to the utilization of the Tailwind CSS framework. This choice of styling enhances the visual appeal and ensures a delightful browsing experience for visitors.  Effortlessly catering to the needs of a diverse audience, the website incorporates separate JSON files to store text content in both French and English. This intelligent design allows for easy language switching, facilitated by React useContext. Visitors can select their preferred language within the navbar, and the application dynamically adapts to their choice. Furthermore, to streamline the experience, the selected language preference is conveniently saved within the user's browser settings, providing a personalized and seamless browsing experience upon subsequent visits.  
+
+Briancon Fantomes stands as a shining example of a meticulously crafted audio tour business, seamlessly blending technology, captivating storytelling, and innovative design. It not only showcases the beauty and history of Briancon but also serves as a gateway for visitors to immerse themselves in an unforgettable journey through time and culture.
   
 ![ezgif com-crop (4)](https://github.com/revyrob/revyrob/assets/66695865/956d56f8-d72f-4c0b-8431-e838d37563e7)
 
@@ -99,11 +97,8 @@ https://operation-mother-earth.netlify.app/
 [Backend](https://github.com/revyrob/operation-mother-earth/tree/main/operation-mother-earth_server) |
 [Frontend](https://github.com/revyrob/operation-mother-earth/tree/main/operation-mother-earth_react)
 
-Operation Mother Earth is a full stack application for children to learn about electronic waste. It is a multi-page React application which uses MongoDB as the database. There are 3 sections to the application.  The application has three sections which include: Storyboard Game, Electronic Waste Recycling Center Finder, Education (Video/Q&A).  The backend is hosted on Render therefore it may take a minute to wake up the backend since it is on the free version.
-
-The Electronic Waste Recycling Center Finder is currently on hold since it used Google APIs and my free version has expired therefore I am looking at another alternative.
-
-The application is mobile responsive.
+Operation Mother Earth is an innovative and comprehensive full-stack application designed to educate children about the pressing issue of electronic waste. Rooted in React, this multi-page application seamlessly leverages MongoDB as its robust and reliable database.  
+The application features three engaging sections, each with a unique purpose. The Storyboard Game section invites children on an interactive journey, allowing them to explore the world of electronic waste through captivating storytelling. The Electronic Waste Recycling Center Finder uses Google APIs to locate recycling centers within a 10km radius of the user.  The results are then mapped onto the interactive map and listed below the map.  The user can also add an e-waste recycling center to the map, using Google API Geocode.  The Education section further enhances learning through a combination of engaging videos and informative Q&A sessions.  Users can add their questions to the database, which will be answered at a later time.
 
   ## E-waste Center 
   ![ezgif com-crop (1)](https://github.com/revyrob/revyrob/assets/66695865/58400101-b001-4d5a-8768-0066125e6d04)
@@ -141,7 +136,7 @@ Backend
   <br></br>
 ## Instock
 
-A Web Appliacation with CRUD functionality. A variety of warehouses, their information, and the inventory within them. The user is able to add, edit, and delete information within the warehouses and the inventory. Group project completed within 5 days with 2 other Software Engineers during the Brainstation Sofware Engineering Diploma Course.
+Instock was a group assignment where we were tasked with creating a full-stack application that enables users to perform CRUD operations on multiple pages connected to a single database. The application allows users to add, remove, and edit warehouses in an existing warehouse list, as well as manage items stocked within each warehouse. The frontend was developed using React, while the backend was built with Node.js and Express. For data storage, we utilized a JSON file stored on the backend, which was accessed through the RESTful APIs we developed.
   
 [Backend](https://github.com/revyrob/instock-json/tree/main/instock-server) |
 [Frontend](https://github.com/revyrob/instock-json/tree/main/instock-client)
