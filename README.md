@@ -164,7 +164,7 @@ Backend
 
   <br></br>
 ## Bike Briancon Version 2
-https://bikebriancon.fr
+https://revyrob.github.io/bikeBriancon/
   
 [Frontend](https://github.com/revyrob/bikeBriancon)
   
