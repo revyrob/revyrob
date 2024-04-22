@@ -5,7 +5,7 @@
 <p><i>Driven by community, ideas, and continual learning</i></p>
  
  <ul align="left">
- <li>🔭 View all my projects at : https://kaylerobson.com/projects</li>
+ <li>🔭 View all my projects at : https://kaylerobson.com</li>
  <li>March 2023 Projects: Two Hackathons with DearJuniorDev</li>
  <ol><a href="https://github.com/revyrob/solarSystem" target="_blank">Intergalactic Planetary</a></ol>
  <ol><a href="https://github.com/Team-PST/flexduck-challenge" target="_blank">FlexDuck</a></ol>
