@@ -6,12 +6,8 @@
  
  <ul align="left">
  <li>🔭 View my special projects at : https://kaylerobson.com</li>
- <li>March 2023 Projects: Two Hackathons with DearJuniorDev</li>
- <ol><a href="https://github.com/revyrob/solarSystem" target="_blank">Intergalactic Planetary</a></ol>
- <ol><a href="https://github.com/Team-PST/flexduck-challenge" target="_blank">FlexDuck</a></ol>
  <li>🤝Connect with me! <a href="https://www.linkedin.com/in/kayle-robson/" target="_blank">LinkedIn</a></li>
  <li>📧How to reach me <a href="mailto:"kayle.robson@gmail.com">kayle.robson@gmail.com</a></li>
- <li>Find out about my diverse experience: <a href="https://drive.google.com/file/d/1pzAs329EM5vJgIcB1ZLV1jXQWknyNHYC/view?usp=sharing" target="_blank">Resume</a></li>
  </ul>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=revyrob&theme=vue" width="500"/>
 </div>
