@@ -32,19 +32,19 @@
 ## Reconnector
 [Frontend](https://github.com/NuraSad/reconnector-frontend)
 
-## Introduction
+### Introduction
 <p>Having common interests can create empathy and understanding between co-workers. As companies go remote giving employees more freedom it can remove the a company’s culture by not giving the opportunity for co-workers to find common interests outside of work.</p>
 <p>Our app helps to build that bridge. We want to repair those bonds of common interest but also bring a sense of company pride and gamification to it.
 As companies take the step towards going fully remote, employees can lose the banter and kinship.  With our app you can share events with other employees and compete against other companies for points</p>
 
-## Created by Team Intergalactic 🚀
+### Created by Team Intergalactic 🚀
 Kayle Robson [@revyrob](https://github.com/revyrob)  
 Aparna Dhara [@AD9-1](https://github.com/AD9-1)  
 Angela Kwok [@angelatyk](https://www.github.com/angelatyk)  
 Ainur Saduova [@NuraSad](https://github.com/NuraSad)  
 Henry Bellman [@hheennrryyb](https://github.com/hheennrryyb)
 
-## Hackathon Parameters
+### Hackathon Parameters
 1) Each project must be deployed on Vercel and have a public demo available.
 2) Each project must have a demo video. Feel free to get creative with this!
 3) Each project must have a README file with details on how to run the app.
@@ -108,27 +108,27 @@ Create Post
 Create Group
 
 
-## Planning and Preparation Documentation
+### Planning and Preparation Documentation
 
-### 🖊️ Wireframe
+#### 🖊️ Wireframe
 <a href="https://www.figma.com/design/PgZEp7yG7BhuQN4TSNFEXs/Stack-Five-Hackathon?node-id=0-1&t=mL6aujEOKQQoTQbX-0" target="_blank">WireFrame</a>
 
-### 📝 Trello board for tickets/tasks
+#### 📝 Trello board for tickets/tasks
 <a href="https://trello.com/b/8vVBTjOh/stackfivehackathon" target="_blank">Ticket board</a>
 
-## Deployed Site
+### Deployed Site
 <p>We deployed using Vercel</p>
 <p>Check it out 👉 <a href="https://reconnector.vercel.app/" target="_blank">HERE</a></p>
 
-## ⚒️ Tech Stack
+### ⚒️ Tech Stack
 ![Logo](https://skillicons.dev/icons?i=html,scss,materialui,vite,supabase,postgres)
 
-## Video Demo
+### Video Demo
 https://www.loom.com/share/86dcf28cce6c4021ba549375bfb8eb76?sid=a9870daa-52c4-4c69-a7b3-ad86d45f8deb
 https://www.loom.com/share/cee81c0a5af84b0f80bab70295999e0a?sid=5148e5f3-4937-40c9-9a3c-bffdace6377f
 https://www.loom.com/share/5d84a510665b4fa88bfd34bcbf7b229c?sid=0f9857f8-b270-4156-b886-fa83969b38a1
 
-## 👩‍💻 Local Installation : Frontend
+### 👩‍💻 Local Installation : Frontend
 To install and run locally, you may follow these steps:
 1. To start using this app you first need to clone the repository: `git clone git@github.com:NuraSad/reconnector-frontend.git`
 2. Then you will need to install all the required packages for the application. Run this command (if you're using npm): `npm i`
