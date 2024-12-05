@@ -17,7 +17,7 @@
   <br></br>
 <b>Libraries and Frameworks:</b> Node.js, Express.js, Tailwind, Formik, Framer Motion, MUI, Boostrap, Axios, Sass, React.js, Flutter
  <br></br>
-  <b>Databases:</b> MongoDB, Mongoose, MySQL, AWS
+  <b>Databases:</b> MongoDB, MySQL, AWS, SupaBase
  <br></br>
   <b>Web Protocols:</b> RESTful, JSON, HTTP
  <br></br>
