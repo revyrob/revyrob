@@ -153,6 +153,7 @@ To install and run locally, you may follow these steps:
 <br/>
 <br/>
 <br/>
+
 ## Intergalactic Planetary - Learn about the Solar System
 https://intergalactic-planetary.netlify.app/
 
@@ -183,6 +184,7 @@ Backend
  <br/>
 <br/>
 <br/>
+
 ## Briancon Fantomes - Version 2
 https://brianconfantomes.com
 
@@ -215,7 +217,8 @@ Tech Stack Frontend
  <br/>
 <br/>
 <br/>
- ## Operation Mother Earth
+
+## Operation Mother Earth
 https://operation-mother-earth.netlify.app/
   
 [Backend](https://github.com/revyrob/operation-mother-earth/tree/main/operation-mother-earth_server) |
@@ -260,6 +263,7 @@ Backend
 <br/>
 <br/>
 <br/>
+
 ## Instock
 
 Instock was a group assignment where we were tasked with creating a full-stack application that enables users to perform CRUD operations on multiple pages connected to a single database. The application allows users to add, remove, and edit warehouses in an existing warehouse list, as well as manage items stocked within each warehouse. The frontend was developed using React, while the backend was built with Node.js and Express. For data storage, we utilized a JSON file stored on the backend, which was accessed through the RESTful APIs we developed.
@@ -291,7 +295,7 @@ Backend
  <br/>
 <br/>
 <br/>
-## Bike Briancon Version 2
+ ## Bike Briancon Version 2
 https://revyrob.github.io/bikeBriancon/
   
 [Frontend](https://github.com/revyrob/bikeBriancon)
