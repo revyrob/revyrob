@@ -31,7 +31,7 @@
 
 ## Math Wizard
 [Frontend](https://github.com/revyrob/MathWizardReact)
-[Backend]([https://github.com/revyrob/MathWizardReact](https://github.com/revyrob/math-wiz-Backend))
+[Backend](https://github.com/revyrob/math-wiz-Backend)
 
 ### Introduction
 <p>Full-stack application, React for the frontend, and Node for the backend.</p>
