@@ -28,7 +28,16 @@
 
   # Project Showcase
   Project progression over the last 4 years
-  
+
+## Math Wizard
+[Frontend](https://github.com/revyrob/MathWizardReact)
+[Backend]([https://github.com/revyrob/MathWizardReact](https://github.com/revyrob/math-wiz-Backend))
+
+<p>Full-stack application, React for the frontend, and Node for the backend.</p>
+<p>An interactive multiplication app for all ages to work on their multiplication skills. This was inspired by by addition to Wordle!</p>
+
+
+
 ## Reconnector
 [Frontend](https://github.com/NuraSad/reconnector-frontend)
 
@@ -134,6 +143,7 @@ To install and run locally, you may follow these steps:
 2. Then you will need to install all the required packages for the application. Run this command (if you're using npm): `npm i`
 3. Run the frontend by the following command `npm run dev`
 4. Create a .env file in the root folder and add the following to the file: `VITE_SUPABASE_URL` and `VITE_ANON_KEY` and `VITE_GOOGLE_API_KEY` in your local .env file.
+
 
 
 ## Intergalactic Planetary - Learn about the Solar System
