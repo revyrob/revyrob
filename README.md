@@ -33,11 +33,13 @@
 [Frontend](https://github.com/revyrob/MathWizardReact)
 [Backend]([https://github.com/revyrob/MathWizardReact](https://github.com/revyrob/math-wiz-Backend))
 
+### Introduction
+<p>Full-stack application, React for the frontend, and Node for the backend.</p>
+<p>An interactive multiplication app for all ages to work on their multiplication skills. This was inspired by by addition to Wordle!</p>
+
 ### Deployed here 🚀
 https://math-wizardly.netlify.app/
 
-<p>Full-stack application, React for the frontend, and Node for the backend.</p>
-<p>An interactive multiplication app for all ages to work on their multiplication skills. This was inspired by by addition to Wordle!</p>
 
 
 
