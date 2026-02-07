@@ -13,7 +13,7 @@
 </div>
 
 # ⚒️ Skills 
-  <b>Languages:</b> Javascript, HTML5, Python, SQL, C, C#
+  <b>Languages:</b> Typescript, HTML, Python, SQL, C, C#
   <br></br>
 <b>Libraries and Frameworks:</b> Node.js, Express.js, Tailwind, Formik, Framer Motion, MUI, Boostrap, Axios, Sass, React.js, Flutter
  <br></br>
